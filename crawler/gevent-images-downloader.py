@@ -14,7 +14,11 @@ from gevent import socket
 import urllib2
 import os
 
-f = open('url.txt')
+from gevent.pool import Pool
+pool = Pool(30)
+N = 30
+
+f = open('images-urllist.txt')
 data = f.readlines()
 f.close()
 
@@ -22,16 +26,29 @@ urls = []
 for d in data:
     urls.append(d[:-1])
 
+finished = 0
+
 def download_file(url):
+    global finished
     print('starting %s' % url)
-    data = urllib2.urlopen(url).read()
-    filename = os.path.basename(url)
-    f = open(filename, 'wb')
-    f.write(data)
-    f.close()
+    try:
+        data = urllib2.urlopen(url, timeout=10000)
+    except urllib2.URLError, e:
+        print 'e : ' % e
+    else:
+        data = data.read()
+        filename = os.path.basename(url)
+        f = open(filename, 'wb')
+        f.write(data)
+        f.close()
+    finally:
+        finished += 1
 
-jobs = [gevent.spawn(download_file, url) for url in urls]
-gevent.joinall(jobs, timeout=5)
 
-[job.value for job in jobs]
+with gevent.Timeout(10000000, False):
+    for x in xrange(10, 10 + N):
+        jobs = [pool.spawn(download_file, url) for url in urls]
+        pool.join(jobs)
+
+print('Finished %s' % (finished, N))
 
