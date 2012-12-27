@@ -1,0 +1,2287 @@
+<!doctype html><html itemscope="itemscope" itemtype="http://schema.org/WebPage"><head><meta itemprop="image" content="/images/google_favicon_128.png"><title>Google</title><script>window.google={kEI:"zGijUOWiBdHMrQem2YDoCg",getEI:function(a){var b;while(a&&!(a.getAttribute&&(b=a.getAttribute("eid"))))a=a.parentNode;return b||google.kEI},https:function(){return window.location.protocol=="https:"},kEXPI:"17259,28290,28663,35705,39517,39523,39976,40363,4000016,4000116,4000124,4000390,4000473,4000567,4000698,4000880,4000944,4000955,4001026,4001030,4001277,4001290,4001372,4001425,4001429,4001456,4001467,4001569,4001584,4001606,4001614,4001662,4001702,4001747,4001762,4001767,4001771,4001782,4001855,4001933,4001958,4002036,4002063,4002090,4002133,4002143,4002228,4002359,4002413",kCSI:{e:"17259,28290,28663,35705,39517,39523,39976,40363,4000016,4000116,4000124,4000390,4000473,4000567,4000698,4000880,4000944,4000955,4001026,4001030,4001277,4001290,4001372,4001425,4001429,4001456,4001467,4001569,4001584,4001606,4001614,4001662,4001702,4001747,4001762,4001767,4001771,4001782,4001855,4001933,4001958,4002036,4002063,4002090,4002133,4002143,4002228,4002359,4002413",ei:"zGijUOWiBdHMrQem2YDoCg"},authuser:0,
+ml:function(){},kHL:"en",time:function(){return(new Date).getTime()},log:function(a,b,c,e){var d=new Image,h=google,i=h.lc,f=h.li,j="";d.onerror=(d.onload=(d.onabort=function(){delete i[f]}));i[f]=d;if(!c&&b.search("&ei=")==-1)j="&ei="+google.getEI(e);var g=c||"/gen_204?atyp=i&ct="+a+"&cad="+b+j+"&zx="+google.time();
+var k=/^http:/i;if(k.test(g)&&google.https()){google.ml(new Error("GLMM"),false,{src:g});delete i[f];return}d.src=g;h.li=f+1},lc:[],li:0,Toolbelt:{},y:{},x:function(a,b){google.y[a.id]=[a,b];return false}};
+
+window.google.sn="webhp";window.google.timers={};window.google.startTick=function(a,b){window.google.timers[a]={t:{start:(new Date).getTime()},bfr:!(!b)}};window.google.tick=function(a,b,c){if(!window.google.timers[a])google.startTick(a);window.google.timers[a].t[b]=c||(new Date).getTime()};google.startTick("load",true);try{}catch(u){}
+var _gjwl=location;function _gjuc(){var a=_gjwl.href.indexOf("#");if(0<=a&&(a=_gjwl.href.substring(a),0<a.indexOf("&q=")||0<=a.indexOf("#q=")))if(a=a.substring(1),-1==a.indexOf("#")){for(var d=0;d<a.length;){var b=d;"&"==a.charAt(b)&&++b;var c=a.indexOf("&",b);-1==c&&(c=a.length);b=a.substring(b,c);if(0==b.indexOf("fp="))a=a.substring(0,d)+a.substring(c,a.length),c=d;else if("cad=h"==b)return 0;d=c}_gjwl.href="/search?"+a+"&cad=h";return 1}return 0}
+function _gjp(){(!window._gjwl.hash||!window._gjuc())&&setTimeout(_gjp,500)};
+window._gjp&&_gjp();</script><style>#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}</style><style id="gstyle">body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}body,td,a,p,.h{font-family:arial,sans-serif}.h{color:#36c;font-size:20px}.q{color:#00c}.ts td{padding:0}.ts{border-collapse:collapse}em{font-weight:bold;font-style:normal}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:-moz-inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}a.gb1,a.gb2,a.gb3,a.gb4{color:#11c !important}body{background:#fff;color:black}a{color:#11c;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#36c}a:visited{color:#551a8b}a.gb1,a.gb4{text-decoration:underline}a.gb3:hover{text-decoration:none}#ghead a.gb2:hover{color:#fff!important}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px;}.lsbb{background:#eee;border:solid 1px;border-color:#ccc #999 #999 #ccc;height:30px;display:block}.ftl,#fll a{display:inline-block;margin:0 12px}.lsb{background:url(/images/srpr/nav_logo80.png) 0 -258px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#ccc}.lst:focus{outline:none}#addlang a{padding:0 3px}.gac_v div{display:none}.gac_v .gac_v2,.gac_bt{display:block!important}table.gssb_c{z-index:986  }.nbcl{background:url(/images/srpr/nav_logo80.png) no-repeat ;height:px;width:px}</style><script></script> </head><body dir="ltr" bgcolor="#fff"><script>(function(){var src='/images/srpr/nav_logo80.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
+if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}
+}
+})();</script><textarea id="csi" style="display:none"></textarea><div id="mngb"><div id=gbar><nobr><b class=gb1>Search</b> <a class=gb1 href="http://www.google.com.sg/imghp?hl=en&tab=wi">Images</a> <a class=gb1 href="http://maps.google.com.sg/maps?hl=en&tab=wl">Maps</a> <a class=gb1 href="https://play.google.com/?hl=en&tab=w8">Play</a> <a class=gb1 href="http://www.youtube.com/?tab=wy">YouTube</a> <a class=gb1 href="http://news.google.com.sg/nwshp?hl=en&tab=wn">News</a> <a class=gb1 href="https://mail.google.com/mail/?tab=wm">Gmail</a> <a class=gb1 href="https://docs.google.com/?tab=wo">Documents</a> <a class=gb1 style="text-decoration:none" href="http://www.google.com.sg/intl/en/options/"><u>More</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com.sg/history/optout?hl=en" class=gb4>Web History</a> | <a  href="/preferences?hl=en" class=gb4>Settings</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=en&continue=http://www.google.com.sg/" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div></div><center><br clear="all" id="lgpd"><div id="lga"><div style="padding:28px 0 3px"><div dir="ltr" title="Google" align="left" id="hplogo" onload="window.lol&&lol()" style="height:110px;width:276px;background:url(/images/srpr/logo1w.png) no-repeat"><div nowrap="nowrap" style="color:#777;font-size:16px;font-weight:bold;position:relative;left:214px;top:70px">Singapore</div></div></div><br></div><form action="/search" name="f"><table cellpadding="0" cellspacing="0"><tr valign="top"><td width="25%">&nbsp;</td><td align="center" nowrap="nowrap"><input name="ie" value="ISO-8859-1" type="hidden"><input value="en-SG" name="hl" type="hidden"><input name="source" type="hidden" value="hp"><div class="ds" style="height:32px;margin:4px 0"><input autocomplete="off" class="lst" value="" title="Google Search" maxlength="2048" name="q" size="57" style="color:#000;margin:0;padding:5px 8px 0 6px;vertical-align:top"></div><br style="line-height:0"><span class="ds"><span class="lsbb"><input class="lsb" value="Google Search" name="btnG" type="submit"></span></span><span class="ds"><span class="lsbb"><input class="lsb" value="I'm Feeling Lucky" name="btnI" type="submit" onclick="if(this.form.q.value)this.checked=1; else top.location='/doodles/'"></span></span></td><td class="fl sblc" align="left" nowrap="nowrap" width="25%"><a href="/advanced_search?hl=en-SG&amp;authuser=0">Advanced search</a><a href="/language_tools?hl=en-SG&amp;authuser=0">Language tools</a></td></tr></table><input type="hidden" id="gbv" name="gbv" value="1"></form><div id="gac_scont"></div><div style="font-size:83%;min-height:3.5em"><br><div id=als><font size=-1 id=addlang>Google.com.sg offered in: <a href="http://www.google.com.sg/setprefs?sig=0_2iz6ZckVeBx2wxUEegw8XDFS7ww%3D&amp;hl=zh-CN&amp;source=homepage">&#20013;&#25991;(&#31616;&#20307;)</a> <a href="http://www.google.com.sg/setprefs?sig=0_2iz6ZckVeBx2wxUEegw8XDFS7ww%3D&amp;hl=ms&amp;source=homepage">Bahasa Melayu</a> <a href="http://www.google.com.sg/setprefs?sig=0_2iz6ZckVeBx2wxUEegw8XDFS7ww%3D&amp;hl=ta&amp;source=homepage">&#2980;&#2990;&#3007;&#2996;&#3021;</a></font><br><br></div></div><span id="footer"><div style="font-size:10pt"><div id="fll" style="margin:19px auto;text-align:center"><a href="/intl/en/ads/">Advertising&nbsp;Programs</a><a href="http://www.google.com.sg/intl/en/services/">Business Solutions</a><a href="https://plus.google.com/104671753009501992085" rel="publisher">+Google</a><a href="/intl/en/about.html">About Google</a><a href="http://www.google.com.sg/setprefdomain?prefdom=US&amp;sig=0_2NZdNXKagqfIP4UljJo2j94i8uI%3D" id="fehl">Google.com</a></div></div><p style="color:#767676;font-size:8pt">&copy; 2012 - <a href="/intl/en/policies/">Privacy & Terms</a></p></span></center><div id=xjsd></div><div id=xjsi><script>if(google.y)google.y.first=[];(function(){var b;function c(a){window.setTimeout(function(){var d=document.createElement("script");d.src=a;document.getElementById("xjsd").appendChild(d)},0)}google.dljp=function(a){b=a;google.xjsi||(google.xjsu=a,c(b))};google.dlj=c;})();
+if(!google.xjs){google.dstr=[];google.rein=[];window._=window._||{};window._._DumpException=function(e){throw e};if(google.timers&&google.timers.load.t){google.timers.load.t.xjsls=new Date().getTime();}google.dljp('/xjs/_/js/hp/sb_he,pcc/rt\x3dj/ver\x3dWNublWpuJno.en_US./d\x3d1/sv\x3d1/rs\x3dAItRSTNUZRwrMySJd7_NS27aVyi9gZ77-w');google.xjs=1;}google.pmc={sb:{"agen":false,"cgen":true,"client":"heirloom-hp","dh":true,"ds":"","eqch":true,"fl":true,"host":"google.com.sg","jsonp":true,"msgs":{"lcky":"I\u0026#39;m Feeling Lucky","lml":"Learn more","oskt":"Input tools","psrc":"This search was removed from your \u003Ca href=\"/history\"\u003EWeb History\u003C/a\u003E","psrl":"Remove","sbit":"Search by image","srch":"Google Search"},"ovr":{"ms":1},"pq":"","qcpw":false,"scd":10,"sce":5,"stok":"mXDJmMV3Qn2L49N6KRQ-p54DNQE"},pcc:{}};google.y.first.push(function(){if(google.med){google.med('init');google.initHistory();google.med('history');}google.History&&google.History.initialize('/');google.hs&&google.hs.init&&google.hs.init()});if(google.j&&google.j.en&&google.j.xi){window.setTimeout(google.j.xi,0);}</script></div><script>(function(){var b,c,d,e;function g(a,f){a.removeEventListener?(a.removeEventListener("load",f,!1),a.removeEventListener("error",f,!1)):(a.detachEvent("onload",f),a.detachEvent("onerror",f))}function h(a){e=(new Date).getTime();++c;a=a||window.event;a=a.target||a.srcElement;g(a,h)}var j=document.getElementsByTagName("img");b=j.length;
+for(var k=c=0,l;k<b;++k)l=j[k],l.complete||"string"!=typeof l.src||!l.src?++c:l.addEventListener?(l.addEventListener("load",h,!1),l.addEventListener("error",h,!1)):(l.attachEvent("onload",h),l.attachEvent("onerror",h));d=b-c;
+function m(){if(google.timers.load.t){google.timers.load.t.ol=(new Date).getTime();google.timers.load.t.iml=e;google.kCSI.imc=c;google.kCSI.imn=b;google.kCSI.imp=d;void 0!==google.stt&&(google.kCSI.stt=google.stt);google.csiReport&&google.csiReport()}}window.addEventListener?window.addEventListener("load",m,!1):window.attachEvent&&window.attachEvent("onload",m);google.timers.load.t.prt=e=(new Date).getTime();})();
+</script></body></html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://yoodey.com/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Yodi Aditya Researcher + Traveller RSS" href="http://yoodey.com/rss.xml" />
+  <title>Yodi Aditya Researcher + Traveller | Talking about Drupal 7, EC2, Ubuntu and PHP</title>
+  <style type="text/css" media="all">@import url("http://yoodey.com/modules/system/system.base.css?lyp0pd");
+@import url("http://yoodey.com/modules/system/system.menus.css?lyp0pd");
+@import url("http://yoodey.com/modules/system/system.messages.css?lyp0pd");
+@import url("http://yoodey.com/modules/system/system.theme.css?lyp0pd");</style>
+<style type="text/css" media="all">@import url("http://yoodey.com/modules/comment/comment.css?lyp0pd");
+@import url("http://yoodey.com/modules/field/theme/field.css?lyp0pd");
+@import url("http://yoodey.com/modules/node/node.css?lyp0pd");
+@import url("http://yoodey.com/modules/search/search.css?lyp0pd");
+@import url("http://yoodey.com/modules/user/user.css?lyp0pd");</style>
+<style type="text/css" media="all">@import url("http://yoodey.com/sites/all/modules/codefilter/codefilter.css?lyp0pd");</style>
+<style type="text/css" media="all">@import url("http://yoodey.com/themes/bartik/css/layout.css?lyp0pd");
+@import url("http://yoodey.com/themes/bartik/css/style.css?lyp0pd");
+@import url("http://yoodey.com/themes/bartik/css/colors.css?lyp0pd");</style>
+<style type="text/css" media="print">@import url("http://yoodey.com/themes/bartik/css/print.css?lyp0pd");</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://yoodey.com/themes/bartik/css/ie.css?lyp0pd" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://yoodey.com/themes/bartik/css/ie6.css?lyp0pd" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://yoodey.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://yoodey.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://yoodey.com/misc/drupal.js?lyp0pd"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"Suz3K-jSXWqYWvzJxbE0JloGjHZdmC1AqSSTeiC8myg","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/codefilter\/codefilter.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-second page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="http://yoodey.com/themes/bartik/logo.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <a href="/" title="Home" rel="home"><span>Yodi Aditya Researcher + Traveller</span></a>
+            </h1>
+                          <p>My Other Blog: <strong><a href="http://www.yodi.sg">Python and Django Programmer</a></strong>, <strong><a href="http://www.jooiner.com">Scala Programmer Software Engineer</a></strong></p>
+                  <div id="site-slogan">
+            Talking about Drupal 7, EC2, Ubuntu and PHP          </div>
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-330 first"><a href="/about-me">About Me</a></li>
+<li class="menu-199 last active"><a href="/" class="active">Home</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+   
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-184" class="node node-article node-promoted node-teaser clearfix" about="/solving-ia32-libs-installation-problem-ubuntu-1204-precise-pangolin" typeof="sioc:Item foaf:Document">
+
+          <h1 class="title node-teaser-page" id="page-title">
+          <a href="/solving-ia32-libs-installation-problem-ubuntu-1204-precise-pangolin">Solving ia32-libs installation problem in Ubuntu 12.04 precise pangolin</a>
+        </h1>
+
+   
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2012-06-02T00:38:28+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name">admin</span> on Sat, 06/02/2012 - 00:38</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Installing "ia32-libs" in Ubuntu 12.04 Precise Pangolin will make you scratch your head because there are several error notification after installation. Even using "dpkg-reconfigure -a" doesn't help. Actually the solution is pretty simple. </p>
+<p>First, you need to remove "ia32-libs", "bluez" and any related packages with it ( If you already installed and facing error ).</p>
+<p>Then, you can start install ia32-libs in correct ways :</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/tags/ia32-libs-ubuntu" typeof="skos:Concept" property="rdfs:label skos:prefLabel">ia32-libs ubuntu</a></li></ul></div>
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/solving-ia32-libs-installation-problem-ubuntu-1204-precise-pangolin" rel="tag" title="Solving ia32-libs installation problem in Ubuntu 12.04 precise pangolin">Read more<span class="element-invisible"> about Solving ia32-libs installation problem in Ubuntu 12.04 precise pangolin</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-183" class="node node-article node-promoted node-teaser clearfix" about="/install-mongodb-ubuntu-1204-precise-pangolin" typeof="sioc:Item foaf:Document">
+
+          <h1 class="title node-teaser-page" id="page-title">
+          <a href="/install-mongodb-ubuntu-1204-precise-pangolin">Install MongoDB in Ubuntu 12.04 Precise Pangolin</a>
+        </h1>
+
+   
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2012-05-12T00:41:30+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name">admin</span> on Sat, 05/12/2012 - 00:41</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Here are shortcuts to install and run MongoDB in your Ubuntu 12.04 Precise Pangolin.</p>
+<p>1. Add GPG Key</p>
+<div class="codeblock"><code>sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10</code></div>
+<p>2. Edit your source.list<br />
+sudo vim /etc/apt/sources.list and add this into bottom line :</p>
+<div class="codeblock"><code>deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen</code></div>
+<p>3. Update and install</p>
+<div class="codeblock"><code>sudo apt-get update &amp;&amp; sudo apt-get install mongodb-10gen</code></div>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/tags/install-mongodb" typeof="skos:Concept" property="rdfs:label skos:prefLabel">install mongodb</a></li></ul></div>
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/install-mongodb-ubuntu-1204-precise-pangolin" rel="tag" title="Install MongoDB in Ubuntu 12.04 Precise Pangolin">Read more<span class="element-invisible"> about Install MongoDB in Ubuntu 12.04 Precise Pangolin</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-182" class="node node-article node-promoted node-teaser clearfix" about="/how-fix-f12-right-click-macbook-pro-ubuntu" typeof="sioc:Item foaf:Document">
+
+          <h1 class="title node-teaser-page" id="page-title">
+          <a href="/how-fix-f12-right-click-macbook-pro-ubuntu">How to fix F12 right click Macbook Pro on Ubuntu</a>
+        </h1>
+
+   
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2012-04-28T14:22:29+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name">admin</span> on Sat, 04/28/2012 - 14:22</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>When you installing Ubuntu in your Macbook Pro, then you will realize that F11 and F12 doesn't works very well.<br />
+F12 will be trigger right click which it may conflicting with yakuake. Even you use Ubuntu 12.04 Precise Pangolin, this still happen.<br />
+It's not bug anyway.</p>
+<p>So, why this is happen? then you can blame "mouseemu" package.</p>
+<p>To solve this problem, just uninstall mouseemu :</p>
+<p>1. From Synaptic<br />
+Search "mouseemu" and remove / uninstall  this packages.</p>
+<p>2. From command-line<br />
+sudo apt-get remove mouseemu</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/tags/right-click-ubuntu" typeof="skos:Concept" property="rdfs:label skos:prefLabel">right click Ubuntu</a></li><li class="taxonomy-term-reference-1" rel="dc:subject"><a href="/tags/f12-right-click-ubuntu" typeof="skos:Concept" property="rdfs:label skos:prefLabel">F12 right click Ubuntu</a></li></ul></div>
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/how-fix-f12-right-click-macbook-pro-ubuntu" rel="tag" title="How to fix F12 right click Macbook Pro on Ubuntu">Read more<span class="element-invisible"> about How to fix F12 right click Macbook Pro on Ubuntu</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-181" class="node node-article node-promoted node-teaser clearfix" about="/full-installation-ubuntu-precise-pangolin-1204-macbook-pro-71" typeof="sioc:Item foaf:Document">
+
+          <h1 class="title node-teaser-page" id="page-title">
+          <a href="/full-installation-ubuntu-precise-pangolin-1204-macbook-pro-71">Full Installation Ubuntu Precise Pangolin 12.04 in Macbook Pro 7.1</a>
+        </h1>
+
+   
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2012-04-27T23:40:47+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name">admin</span> on Fri, 04/27/2012 - 23:40</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Ubuntu 12.04 Precise Pangolin have been released. Make sure you are downloading amd64+mac ISO version.<br />
+If you not find this ISO, then you can go here : <a href="http://cdimage.ubuntu.com/releases/12.04/release/">http://cdimage.ubuntu.com/releases/12.04/release/</a></p>
+<p>Now let start install and configure Macbook Pro in Ubuntu 12.04 Precise Pangolin.</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/tags/installation-guide-ubuntu-1204-macbook-pro-71" typeof="skos:Concept" property="rdfs:label skos:prefLabel">installation guide ubuntu 12.04 in Macbook Pro 7.1</a></li></ul></div>
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/full-installation-ubuntu-precise-pangolin-1204-macbook-pro-71" rel="tag" title="Full Installation Ubuntu Precise Pangolin 12.04 in Macbook Pro 7.1">Read more<span class="element-invisible"> about Full Installation Ubuntu Precise Pangolin 12.04 in Macbook Pro 7.1</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-180" class="node node-article node-promoted node-teaser clearfix" about="/how-scp-remote-local" typeof="sioc:Item foaf:Document">
+
+          <h1 class="title node-teaser-page" id="page-title">
+          <a href="/how-scp-remote-local">How to scp from remote to local</a>
+        </h1>
+
+   
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2012-04-26T13:56:02+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name">admin</span> on Thu, 04/26/2012 - 13:56</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Here are simple way to copy files from remote server into local machine :<br /><code>scp username@server:/path/file /your/path/local/directory</code></p>
+<p>If you're using key pem, then :</p>
+<p><code>scp -i key.pem username@server:/path/file /your/path/local/directory</code></p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/tags/scp-remote-local" typeof="skos:Concept" property="rdfs:label skos:prefLabel">scp from remote to local</a></li></ul></div>
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/how-scp-remote-local" rel="tag" title="How to scp from remote to local">Read more<span class="element-invisible"> about How to scp from remote to local</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-179" class="node node-article node-promoted node-teaser clearfix" about="/install-sphinx-search-ubuntu-1110" typeof="sioc:Item foaf:Document">
+
+          <h1 class="title node-teaser-page" id="page-title">
+          <a href="/install-sphinx-search-ubuntu-1110">Install Sphinx search on Ubuntu 11.10</a>
+        </h1>
+
+   
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2012-04-26T08:54:08+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name">admin</span> on Thu, 04/26/2012 - 08:54</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Here are quick steps installing Sphinx Search in Ubuntu 11.10. Make sure you're already have MySQL installed.</p>
+<div class="codeblock"><code>sudo apt-get install libmysql++-dev libmysqlclient15-dev sphinxsearch</code></div>
+<p>Then, just edit "/etc/default/sphinxsearch" and change into "START=YES"</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/tags/sphinx-ubuntu-1110" typeof="skos:Concept" property="rdfs:label skos:prefLabel">sphinx ubuntu 11.10</a></li></ul></div>
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/install-sphinx-search-ubuntu-1110" rel="tag" title="Install Sphinx search on Ubuntu 11.10">Read more<span class="element-invisible"> about Install Sphinx search on Ubuntu 11.10</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-178" class="node node-article node-promoted node-teaser clearfix" about="/use-color-256-xterm-terminal-console-ubuntu-linux" typeof="sioc:Item foaf:Document">
+
+          <h1 class="title node-teaser-page" id="page-title">
+          <a href="/use-color-256-xterm-terminal-console-ubuntu-linux">Use color 256 xterm in Terminal Console Ubuntu Linux</a>
+        </h1>
+
+   
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2012-04-19T10:27:22+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name">admin</span> on Thu, 04/19/2012 - 10:27</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>To use 256color in Terminal console Ubuntu, you just edit ~/.bashrc and add :</p>
+<div class="codeblock"><code>if [ -n "$DISPLAY" -a "$TERM" == "xterm" ]; then<br />        export TERM=xterm-256color<br />fi</code></div>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/tags/256-color-console-ubuntu" typeof="skos:Concept" property="rdfs:label skos:prefLabel">256 color console ubuntu</a></li></ul></div>
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/use-color-256-xterm-terminal-console-ubuntu-linux" rel="tag" title="Use color 256 xterm in Terminal Console Ubuntu Linux">Read more<span class="element-invisible"> about Use color 256 xterm in Terminal Console Ubuntu Linux</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-177" class="node node-article node-promoted node-teaser clearfix" about="/solve-macbook-pro-71-vga-nvidia-black-screen-not-detected-external-display-doesnt-work-ubuntu" typeof="sioc:Item foaf:Document">
+
+          <h1 class="title node-teaser-page" id="page-title">
+          <a href="/solve-macbook-pro-71-vga-nvidia-black-screen-not-detected-external-display-doesnt-work-ubuntu">Solve Macbook pro 7.1 VGA NVIDIA black screen, not detected, external display doesn&#039;t work in Ubuntu</a>
+        </h1>
+
+   
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2012-04-19T09:51:20+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name">admin</span> on Thu, 04/19/2012 - 09:51</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>There are a lot tutorial to installing NVIDIA Driver in Macbook Pro 7.1 on Ubuntu. But, I ended up with bad result.<br />
+What I facing before, I got blank screen after installing Nvidia current-driver. Also, my dual monitor doesn't works (I use DELL monitor).<br />
+What actually happen is my Nvidia doesn't detected in Ubuntu and there no additional new device (jockey) for this VGA.</p>
+<p>Finally, I made my Nvidia in Macbook Pro 7.1 working 100% in Ubuntu 11.10 Oneiric.<br />
+So, how to solve this problem and make it works?</p>
+<p>Basically, it's pretty easy :</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/tags/macbook-pro-71-black-screen-ubuntu" typeof="skos:Concept" property="rdfs:label skos:prefLabel">macbook pro 7.1 black screen ubuntu</a></li><li class="taxonomy-term-reference-1" rel="dc:subject"><a href="/tags/macbook-pro-71-ubuntu-external-display" typeof="skos:Concept" property="rdfs:label skos:prefLabel">macbook pro 7.1 ubuntu external display</a></li></ul></div>
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/solve-macbook-pro-71-vga-nvidia-black-screen-not-detected-external-display-doesnt-work-ubuntu" rel="tag" title="Solve Macbook pro 7.1 VGA NVIDIA black screen, not detected, external display doesn&#039;t work in Ubuntu">Read more<span class="element-invisible"> about Solve Macbook pro 7.1 VGA NVIDIA black screen, not detected, external display doesn&#039;t work in Ubuntu</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-176" class="node node-article node-promoted node-teaser clearfix" about="/solve-phpmyadmin-404-not-found-localhostphpmyadmin-ubuntu" typeof="sioc:Item foaf:Document">
+
+          <h1 class="title node-teaser-page" id="page-title">
+          <a href="/solve-phpmyadmin-404-not-found-localhostphpmyadmin-ubuntu">Solve phpmyadmin 404 not found in localhost/phpmyadmin in Ubuntu</a>
+        </h1>
+
+   
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2012-04-12T11:08:30+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name">admin</span> on Thu, 04/12/2012 - 11:08</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>When you install Phpmyadmin without Apache first, then you will see this kind of errors. You should install apache2 first, then followed by phpmyadmin to get all things works properly.<br />
+To solve this problem :</p>
+<div class="codeblock"><code>sudo dpkg-reconfigure -plow phpmyadmin</code></div>
+<p>And restart your webserver!</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/tags/404-phpmyadmin" typeof="skos:Concept" property="rdfs:label skos:prefLabel">404 phpmyadmin</a></li><li class="taxonomy-term-reference-1" rel="dc:subject"><a href="/tags/phpmyadmin-not-found" typeof="skos:Concept" property="rdfs:label skos:prefLabel">phpmyadmin not found</a></li></ul></div>
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/solve-phpmyadmin-404-not-found-localhostphpmyadmin-ubuntu" rel="tag" title="Solve phpmyadmin 404 not found in localhost/phpmyadmin in Ubuntu">Read more<span class="element-invisible"> about Solve phpmyadmin 404 not found in localhost/phpmyadmin in Ubuntu</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-175" class="node node-article node-promoted node-teaser clearfix" about="/share-partition-between-ubuntu-linux-and-os-x-macbook-pro" typeof="sioc:Item foaf:Document">
+
+          <h1 class="title node-teaser-page" id="page-title">
+          <a href="/share-partition-between-ubuntu-linux-and-os-x-macbook-pro">Share partition between Ubuntu Linux and OS X in Macbook Pro</a>
+        </h1>
+
+   
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2012-04-02T14:21:57+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name">admin</span> on Mon, 04/02/2012 - 14:21</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>I have two OS here, Ubuntu and OS X in my Macbook Pro. I want to centralize my data and separate OS filesystem. So, when I need to re-format or upgrade my OS (Ubuntu/OSX), my data stil save can easily accessed from both. Ubuntu and OS X should be able to accessing this partition. So, it is simple tricks. </p>
+<p>1. Disk Utility<br />
+Go to your OS X and open Disk Utility. Create new partition which this will be your data partition.<br />
+Format it using HFS without Journaled. Now, every your works on OS X, you should put all data in here.</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/tags/share-partition-ubuntu-and-osx" typeof="skos:Concept" property="rdfs:label skos:prefLabel">share partition ubuntu and osx</a></li></ul></div>
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/share-partition-between-ubuntu-linux-and-os-x-macbook-pro" rel="tag" title="Share partition between Ubuntu Linux and OS X in Macbook Pro">Read more<span class="element-invisible"> about Share partition between Ubuntu Linux and OS X in Macbook Pro</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/node?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item"><a href="/node?page=2" title="Go to page 3" class="active">3</a></li>
+<li class="pager-item"><a href="/node?page=3" title="Go to page 4" class="active">4</a></li>
+<li class="pager-item"><a href="/node?page=4" title="Go to page 5" class="active">5</a></li>
+<li class="pager-item"><a href="/node?page=5" title="Go to page 6" class="active">6</a></li>
+<li class="pager-item"><a href="/node?page=6" title="Go to page 7" class="active">7</a></li>
+<li class="pager-item"><a href="/node?page=7" title="Go to page 8" class="active">8</a></li>
+<li class="pager-item"><a href="/node?page=8" title="Go to page 9" class="active">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a href="/node?page=1" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/node?page=18" title="Go to last page" class="active">last »</a></li>
+</ul></div>  </div>
+</div>
+  </div>
+      <a href="/rss.xml" class="feed-icon" title="Subscribe to Yodi Aditya Researcher + Traveller RSS"><img typeof="foaf:Image" src="http://yoodey.com/misc/feed.png" width="16" height="16" alt="Subscribe to Yodi Aditya Researcher + Traveller RSS" /></a>
+    </div></div> <!-- /.section, /#content -->
+
+          <div id="sidebar-second" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-second">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-T1u2W-xRnhoI6w6M8dtzrB47fMCKbjj1MPnE9hMORR8" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-comment-recent" class="block block-comment">
+
+    <h2>Recent comments</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/comment/11753#comment-11753">Did not solve problem :\</a>&nbsp;<span>5 months 1 week ago</span></li>
+<li><a href="/comment/11276#comment-11276">Thanks! I can&#039;t believe they</a>&nbsp;<span>5 months 3 weeks ago</span></li>
+<li><a href="/comment/11241#comment-11241">HOLY SHIT</a>&nbsp;<span>5 months 3 weeks ago</span></li>
+<li><a href="/comment/11133#comment-11133">Hey Man great tutorial -- I</a>&nbsp;<span>5 months 4 weeks ago</span></li>
+<li><a href="/comment/11112#comment-11112">wow</a>&nbsp;<span>6 months 1 day ago</span></li>
+<li><a href="/comment/11108#comment-11108">Alternate solution</a>&nbsp;<span>6 months 2 days ago</span></li>
+<li><a href="/comment/11106#comment-11106">yo</a>&nbsp;<span>6 months 2 days ago</span></li>
+<li><a href="/comment/11062#comment-11062">it works</a>&nbsp;<span>6 months 6 days ago</span></li>
+<li><a href="/comment/11035#comment-11035">Great and easy to follow</a>&nbsp;<span>6 months 1 week ago</span></li>
+<li class="last"><a href="/comment/11031#comment-11031">EOFM here is just HEREDOC</a>&nbsp;<span>6 months 1 week ago</span></li>
+</ul></div>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-second -->
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+  <div style="clear:both;"></div>
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20307433-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  </body>
+</html>
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="Virtual Machine (VM) is good solution to handle several different environment of applications.
+All my server working on Ubuntu Server with different &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yodiaditya.github.com">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yodiaditya.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/10/26/build-base-box-vagrant-ubuntu-oneiric-11.10-server/">Build Base Box Vagrant Ubuntu Oneiric 11.10 Server</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+  
+
+<time datetime="2011-10-26T23:26:00+08:00" pubdate>Oct 26<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Virtual Machine (VM) is good solution to handle several different environment of applications.
+All my server working on Ubuntu Server with different version.
+At this point, virtualenv and RVM still doesn&#8217;t enough for me.</p>
+
+<p>So I use Virtualbox and install several Ubuntu Server version.
+Then I hear about Vagrant which a great tools for managing Virtualbox VM.
+Using Vagrant, we can run VM without execute Virtualbox because it running on background.
+This is what i want!</p>
+
+<p>I will explain my steps bundling Ubuntu 11.10 into Vagrant box and run it.</p>
+
+<h3>1. Create Ubuntu 11.10 VM on Virtualbox</h3>
+
+<p>Create new VM with name &#8220;vagrant-oneiric&#8221; and start install Ubuntu Server 11.10.
+In this steps, I disable USB and Audio which not used in Server.
+Also, I set Video size to 4MB only which server doesn&#8217;t run GUI.</p>
+
+<h3>2. Installing Ubuntu 11.10</h3>
+
+<p>Because we will use Vagrant, then we should follow standard convention here.
+Make sure you setup this :</p>
+
+<pre><code>hostname : vagrant
+username : vagrant
+password : vagrant
+</code></pre>
+
+<p>Also, you must  install OpenSSH-Server packages.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2011/10/26/build-base-box-vagrant-ubuntu-oneiric-11.10-server/">Continue reading &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/10/24/github-custom-domain-with-octopress-in-ubuntu-oneiric-11-dot-10/">Github Custom Domain With Octopress in Ubuntu Oneiric 11.10</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+  
+
+<time datetime="2011-10-24T01:20:00+08:00" pubdate>Oct 24<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>In previous, I have posted about
+<a href="http://www.yodi.me/2011/09/02/install-octopress-and-use-custom-domain-hosting-on-github-dot-com/">Octopress installation</a>
+in that only works in Ubuntu Natty 11.04. Use my previous post on Ubuntu 11.10 Oneiric will make several problem.
+This is because rake and liquid version that little buggy.</p>
+
+<p>Here are the steps to build Octopress on Ubuntu 11.10 :</p>
+
+<h3>1. Create github repository</h3>
+
+<hr />
+
+<p>As described on <a href="http://pages.github.com/">Pages github</a>, if we want host our sites then we should make repository <code>username.github.com</code>.</p>
+
+<p>So, i log into my Github account and create repository <a href="https://github.com/yodiaditya/yodiaditya.github.com">yodiaditya.github.com</a></p>
+
+<h3>2. Know how it works</h3>
+
+<hr />
+
+<p>Github will detecting and create pages automatically after we create username.github.com repository (take several minutes).
+To make it&#8217;s works, we should have conditions :</p>
+
+<pre><code>1. Pointing Our Domain into Github
+2. Using CNAME files for set our domain name into github
+3. Creating .nojekyll files for telling Github we use another engine
+</code></pre>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2011/10/24/github-custom-domain-with-octopress-in-ubuntu-oneiric-11-dot-10/">Continue reading &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/09/20/top-javascript-checker-tools-that-must-used-by-front-end-developer/">Top Javascript Checker Tools That Must Used by Front-end Developer</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+  
+
+<time datetime="2011-09-20T23:28:00+08:00" pubdate>Sep 20<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Many front-developer (like me too) always create &amp; editing many Javascript codes everyday.
+Maybe we not Mr. Crockford who knows Javascript deeply and make several mistakes on development.
+Actually, we can increase our Javascript knowledges by using this several useful tools.</p>
+
+<p>I will introduce several tools and their installation on Ubuntu 11.04.
+Several of them working with VIM (my favourite editor) and have plugin.
+All of this tools can execute from commandline.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2011/09/20/top-javascript-checker-tools-that-must-used-by-front-end-developer/">Continue reading &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/09/20/run-nodejs-and-nowjs-as-sub-domain-in-port-80-using-haproxy-websocket-ubuntu/">Run Nodejs &amp; Nowjs as Sub-domain Port 80 With Haproxy Websocket Ubuntu</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+  
+
+<time datetime="2011-09-20T14:28:00+08:00" pubdate>Sep 20<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Running NowJS on port 80 in sub-domain is the best way to make our chat application works in every environment.
+We know some &#8220;draconian office&#8221; only open port 80 &amp; 443 for internet access.
+By using HAProxy, we can redirect NowJs apps on port 8003 to 80 on Sub-domain.</p>
+
+<p>In this example, i have NGINX run on port 81 and nowJS on port 8003.
+My chat homepage located in <a href="http://www.obrool.com">http://www.obrool.com</a> which rely on NGINX port 81.
+My nowjs apps (8003) will pointed into <a href="http://chat.obrool.com">http://chat.obrool.com</a> on port 80.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2011/09/20/run-nodejs-and-nowjs-as-sub-domain-in-port-80-using-haproxy-websocket-ubuntu/">Continue reading &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/09/14/installing-haproxy-in-ubuntu-natty-11-dot-04-ubuntu-on-amazon-ec2/">Installing HAproxy in Ubuntu Natty 11.04 Ubuntu on Amazon EC2</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+  
+
+<time datetime="2011-09-14T20:29:00+08:00" pubdate>Sep 14<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Installing HAproxy in Ubuntu Natty 11.04 Ubuntu on Amazon EC2</p>
+
+<p>Liquid error: undefined method `join&#8217; for #&lt;String:0x0000000087d458></p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2011/09/14/installing-haproxy-in-ubuntu-natty-11-dot-04-ubuntu-on-amazon-ec2/">Continue reading &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/09/05/run-nodejs-in-ubuntu-11-dot-04-ec2-with-user-permission-and-run-as-service/">Run NodeJS in Ubuntu 11.04 EC2 With User Permission and Run as Service</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+  
+
+<time datetime="2011-09-05T23:44:00+08:00" pubdate>Sep 5<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>In this post, i show you how to install &amp; run NodeJS in Production Mode without ROOT permission.
+I make this runing and tested on Amazon EC2 on Ubuntu Natty 11.04.
+I user user permission NodeJS installation on [my NodeJS how to installation] (http://yoodey.com/how-install-nodejs-ubuntu-natty-1104-and-start-learning)</p>
+
+<h2>Set environment</h2>
+
+<p>Our node is installed on ~/local/node. We will make this also can be accessed in GLOBAL environment.
+My home path is /home/ubuntu.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2011/09/05/run-nodejs-in-ubuntu-11-dot-04-ec2-with-user-permission-and-run-as-service/">Continue reading &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/09/03/easy-steps-migrate-wordpress-contents-into-markdown-jekyll/">Easy Steps Migrate Wordpress Contents Into Markdown - Jekyll</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+  
+
+<time datetime="2011-09-03T19:36:00+08:00" pubdate>Sep 3<span>rd</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Here are straight-foward steps for migrate contents Wordpress into Markdown :</p>
+
+<h2>1. Installing dependencies</h2>
+
+<p>Liquid error: undefined method `join&#8217; for #&lt;String:0x000000017063a8></p>
+
+<h2>2. Installing GEM dependencies</h2>
+
+<p>Liquid error: undefined method `join&#8217; for #&lt;String:0x00000001704df0></p>
+
+<h2>3. Running</h2>
+
+<p>Liquid error: undefined method `join&#8217; for #&lt;String:0x00000001703ef0></p>
+
+<p>Inspired from <a href="http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/">this article</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/09/02/install-octopress-and-use-custom-domain-hosting-on-github-dot-com/">Install Octopress and Use Custom Domain Hosting on Github.com</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+  
+
+<time datetime="2011-09-02T22:00:00+08:00" pubdate>Sep 2<span>nd</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h3>Updated!</h3>
+
+<p>I post [Octopress Installation on Oneiric 11.10 due to several problems]
+(http://www.yodi.me/blog/2011/10/24/github-custom-domain-with-octopress-in-ubuntu-oneiric-11-dot-10/)</p>
+
+<p>Hearing developers using Jeykll and Github for hosting their site, i spent a day to learn how to make it.
+So, finally i make <a href="http://yodiaditya.github.com">my site</a> host on Github.com &amp; using Octopress (Jeykll based Framework).
+Why i use Octopress ? Because i don&#8217;t want too much code from scratch.</p>
+
+<p>In this example, you just rename <code>username</code> with your github username.
+Let&#8217;s play!</p>
+
+<h2>1. Create github repository</h2>
+
+<p>As described on <a href="http://pages.github.com/">Pages github</a>, if we want host our sites then we should make repository <code>username.github.com</code>.
+So, i log into my Github account and create repository &#8221;<a href="https://github.com/yodiaditya/yodiaditya.github.com">yodiaditya.github.com</a></p>
+
+<p>On my localhost / laptop i create my repository folder.
+For example, i create my repository on <code>~/htdocs/</code>.</p>
+
+<h2>2. Know how it works</h2>
+
+<p>Github will detecting and create pages automatically after we create username.github.com repository (take several minutes).
+To make it&#8217;s works, we should have conditions :</p>
+
+<ol>
+<li>Pointing Our Domain into Github</li>
+<li>Using CNAME files for set our domain name into github</li>
+<li>Creating .nojekyll files for telling Github we use another engine</li>
+</ol>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2011/09/02/install-octopress-and-use-custom-domain-hosting-on-github-dot-com/">Continue reading &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/08/28/using-pip-for-installing-python-modules-from-github-repository/">Using PIP for Installing Python Modules From Github Repository</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+  
+
+<time datetime="2011-08-28T22:00:00+08:00" pubdate>Aug 28<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Pip is great tools and we should use it rather than easy_install ( which i know it can be best solution in some situation ).
+When i use pyflakes with PIP to integrate with pyflakes-vim, it give me error.
+So, i use latest version from pyflakes github and using PIP to install it.</p>
+
+<p>Here are to install python modules using PIP - Github :</p>
+
+<p><code>sudo pip install git+git://&lt;some repository github /&gt;</code></p>
+
+<p>For example :</p>
+
+<p><code>sudo pip install git+git://github.com/kevinw/pyflakes.git</code></p>
+
+<p>Now i solve my problem using pyflakes :)</p>
+
+<p>Checkout my Vim-Netbeans github here : <a href="https://github.com/yodiaditya/vim-netbeans">https://github.com/yodiaditya/vim-netbeans</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/08/21/how-to-solve-error-cannot-find-module-less-css-in-node-js-0-5-5/">How to Solve Error Cannot Find Module Less CSS in Node.js 0.5.5</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+  
+
+<time datetime="2011-08-21T22:00:00+08:00" pubdate>Aug 21<span>st</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Installing Less.js (fresh from <a href="https://github.com/cloudhead/less.js">cloudhead&#8217;s github</a>)
+probably making some error with your nodeJS application if you install it <strong>not in global mode</strong>.</p>
+
+<p>Here are several thing that could be happen :</p>
+
+<h3>1. Error: require.paths is removed. Use node_modules folders, or the NODE_PATH environment</h3>
+
+<pre><code>Error: require.paths is removed. Use node_modules folders, or the NODE_PATH environment variable instead.    
+at Function.&lt;anonymous&gt; (module.js:360:11)  
+at Object.&lt;anonymous&gt; (/home/ubuntu/www/js/nodejs/node_modules/less/lib/less/index.js:5:8)
+at Module._compile (module.js:416:26)  
+at Object..js (module.js:434:10)   
+at Module.load (module.js:335:31) 
+at Function._load (module.js:294:12) 
+at Module.require (module.js:341:17)  
+at require (module.js:352:17)  
+at Object.&lt;anonymous&gt; (/home/ubuntu/www/js/nodejs/myapp.js:29:12)
+at Module._compile (module.js:416:26)
+</code></pre>
+
+<h3>2. Can&#8217;t find module &#8216;less/parser&#8217;</h3>
+
+<pre><code>Error: Cannot find module 'less/parser'  
+at Function._resolveFilename (module.js:318:11)   
+at Function._load (module.js:263:25)  
+at Module.require (module.js:341:17)   
+at require (module.js:352:17)   
+at Object.&lt;anonymous&gt; (/home/ubuntu/local/node/lib/node_modules/less/lib/less/index.js:9:13) 
+at Module._compile (module.js:416:26) 
+at Object..js (module.js:434:10) 
+at Module.load (module.js:335:31)
+at Function._load (module.js:294:12)  
+at Module.require (module.js:341:17)
+</code></pre>
+
+<p>So how to make this LessJS working with NodeJS ?</p>
+
+<p>Actually problem is comming from inside Less.js code.</p>
+
+<pre><code>    require.paths.unshift(path.join(__dirname, '..'));
+</code></pre>
+
+<p>So, let fix it!Let make some parameters here.</p>
+
+<ol>
+<li><p>I using npm (without global) when installing less.js.
+I put it on <code>/home/ubuntu/www/nodejs/</code></p></li>
+<li><p>I installing nodejs without sudo and install it on ~/local.
+In case you don&#8217;t get it, check out my <a href="http://yoodey.com/how-install-nodejs-ubuntu-natty-1104-and-start-learning">Node.JS Installation</a>.</p></li>
+</ol>
+
+
+<p>So, first thing to do is editing 2 less files :</p>
+
+<ol>
+<li><p>index.js in node_modules folder
+vim less.js/lib/less/index.js and comment line number 5 :</p>
+
+<pre><code>  //require.paths.unshift(path.join(__dirname, '..'));
+</code></pre></li>
+<li><p>Do as number 1 on &#8220;less.js/bin/lessc&#8221; by commenting line number 7 :</p>
+
+<pre><code> //require.paths.unshift(path.join(__dirname, '..', 'lib'));
+</code></pre></li>
+<li><p>Build ~/.profile to pointing into your LessJS module</p>
+
+<pre><code> Create this on your ~/.profile:
+ export PATH=$HOME/local/node/bin:$PATH
+ export NODE_PATH=/home/ubuntu/node/lib/node_modules:$NODE_PATH
+ export NODE_PATH=/home/ubuntu/www/nodejs/obrool/node_modules:$NODE_PATH
+ export NODE_PATH=/home/ubuntu/www/nodejs/obrool/node_modules/less.js/lib:$NODE_PATH
+</code></pre></li>
+</ol>
+
+
+<p>In this example, my less.js located in &#8220;/home/ubuntu/www/nodejs/obrool/node_modules&#8221;.
+You can change it depend in your installation method and folder structure.</p>
+
+<p>Last step &#8220;source ~/.profile&#8221; to load it NODE_PATH.</p>
+
+<p>Start your node server!</p>
+
+<p>Solution was tested and taken from <a href="https://github.com/cloudhead/less.js/issues/320">here</a>.</p>
+
+<p>If youre install Less in Global mode, then you should do point number 3 which pointing into you global node_modules folder.</p>
+
+<p>Thanks folks!</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/2/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2011/10/26/build-base-box-vagrant-ubuntu-oneiric-11.10-server/">Build base box Vagrant Ubuntu Oneiric 11.10 Server</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/10/24/github-custom-domain-with-octopress-in-ubuntu-oneiric-11-dot-10/">Github Custom Domain with Octopress in Ubuntu Oneiric 11.10</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/09/20/top-javascript-checker-tools-that-must-used-by-front-end-developer/">Top Javascript Checker Tools That Must Used by Front-end Developer</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/09/20/run-nodejs-and-nowjs-as-sub-domain-in-port-80-using-haproxy-websocket-ubuntu/">Run Nodejs &amp; Nowjs as Sub-domain port 80 with Haproxy Websocket Ubuntu</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/09/14/installing-haproxy-in-ubuntu-natty-11-dot-04-ubuntu-on-amazon-ec2/">Installing HAproxy in Ubuntu Natty 11.04 Ubuntu on Amazon EC2</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/09/05/run-nodejs-in-ubuntu-11-dot-04-ec2-with-user-permission-and-run-as-service/">Run NodeJS in Ubuntu 11.04 EC2 With User Permission and Run as Service</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/09/03/easy-steps-migrate-wordpress-contents-into-markdown-jekyll/">Easy Steps Migrate Wordpress Contents Into Markdown - Jekyll</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/09/02/install-octopress-and-use-custom-domain-hosting-on-github-dot-com/">Install Octopress and Use Custom Domain Hosting on Github.com</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/08/28/using-pip-for-installing-python-modules-from-github-repository/">Using PIP for installing python modules from Github repository</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/08/21/how-to-solve-error-cannot-find-module-less-css-in-node-js-0-5-5/">How to solve error Cannot find module Less CSS in Node.js 0.5.5</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>Github Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/yodiaditya">@yodiaditya</a> on Github
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'yodiaditya',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("yodiaditya", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/yodiaditya" class="twitter-follow-button" data-width="208px" data-show-count="false">Follow @yodiaditya</a>
+  
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/104566383115107033547?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'yodiaditya';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html dir="ltr" lang="en-US" class="no-js ie ie6 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 7 ]><html dir="ltr" lang="en-US" class="no-js ie ie7 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="en-US" class="no-js ie ie8 lte8 lte9"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="en-US" class="no-js ie ie9 lte9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html dir="ltr" lang="en-US" class="no-js"><!--<![endif]-->
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.5, minimum-scale=0.5">
+		<title>I&#039;m a Software Engineer</title>
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.yodi.sg/wp-content/themes/svbtle/style.css" />
+		<link rel="pingback" href="http://www.yodi.sg/xmlrpc.php" />
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+		<style>blockquote {border-color: #ff0000;}aside#logo,aside#logo div a,ul#user_meta a:hover span.link_logo_inside,ul#user_meta a:hover span.link_logo,aside.kudo.complete span.circle {background-color: #ff0000;}section.preview header#begin h2,ul#user_meta a:hover,nav.pagination span.next a,nav.pagination span.prev a {color: #ff0000;}ul#user_meta a:hover,nav.pagination span.next a,nav.pagination span.prev a {border-color: #ff0000;}::-moz-selection { background: #ff0000; color: #fff; text-shadow: none;}::selection { background: #ff0000; color: #fff; text-shadow: none;}
+		</style>
+
+		<link rel='stylesheet' id='codecolorer-css'  href='http://www.yodi.sg/wp-content/plugins/codecolorer/codecolorer.css?ver=0.9.9' type='text/css' media='screen' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.yodi.sg/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.yodi.sg/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.4.1" />
+<style type="text/css">
+aside#logo div a,aside.kudo.complete span.circle{background-image: url(http://www.yodi.sg/wp-content/themes/svbtle/images/icons/bolt_large.png);}
+    </style>
+
+	</head>
+	<body class="home blog">
+		<header id="sidebar">
+		  <aside id="logo" class="clearfix">
+		    <div class="clearfix">
+		      <a href="http://www.yodi.sg/">I&#039;m a Software Engineer</a>
+		    </div>
+		  </aside>
+		  <ul id="user_meta">
+		    <li class="blog_name">
+		      <h1 id="blog_name">
+			      <a href="http://www.yodi.sg/">I&#039;m a Software Engineer</a>
+		      </h1>
+		    </li>
+				<li class="blog_owner">
+		      <h2 id="blog_owner">
+		        <a href="http://www.yodi.sg/"></a>
+		      </h2>
+		    </li>
+		    <li class="tagline">
+		      <h2 id="tagline">
+		        Algorithm, C++, Python and Mobile		      </h2>
+		    </li>
+
+
+										<li class="link">
+							<a href="http://www.yodi.sg/yodi/">About Me</a>
+						</li>
+
+					
+					<li class="link twitter">
+						<a target="_blank" href="http://twitter.com/yodiaditya">@yodiaditya</a>
+					</li>
+
+				<li class="link github">
+					<a target="_blank" href="http://github.com/yodiaditya">Github</a>
+				</li>
+
+				
+				
+				<form role="search" method="get" id="searchform" action="http://www.yodi.sg/" >
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Search" />
+	</div>
+	</form>
+		  </ul>
+		</header>
+
+		<section id="river" role="main">
+
+<div class="entry-meta">
+	
+</div><!-- .entry-meta -->
+
+<header id="begin">
+	<time datetime="2012-11-14" id="top_time">November 14, 2012</time>
+</header>
+
+
+
+
+	
+					
+		<article id="275" class="post">
+
+			<h2 class="entry-title">	<a href="http://www.yodi.sg/solve-firefox-webdriver-selenium-failed-to-dlopen-usrliblibx11-so-6-in-fedora/" class="no-link" title="Permalink to Solve Firefox webdriver selenium Failed to dlopen /usr/lib/libX11.so.6 in Fedora" rel="bookmark">Solve Firefox webdriver selenium Failed to dlopen /usr/lib/libX11.so.6 in Fedora</a>
+
+</h2>
+
+
+
+				<div class="entry-content">
+				<p>I use Selenium for testing, usually I use ChromeDriver which more fast and smoothly than firefox. In case you have failed when using Selenium with Firefox WebDriver and got this issue :</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br /></div></td><td><div class="text codecolorer">WebDriverException: Message: 'The browser appears to have exited before we could connect. The output was: Failed to dlopen /usr/lib/libX11.so.6\ndlerror says: /usr/lib/libX11.so.6: wrong ELF class: ELFCLASS32\n'</div></td></tr></tbody></table></div>
+<p>The solution is easy:<br />
+ <a href="http://www.yodi.sg/solve-firefox-webdriver-selenium-failed-to-dlopen-usrliblibx11-so-6-in-fedora/#more-275" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+							</div><!-- .entry-content -->
+	
+
+			
+			
+			<aside class="kudo kudoable" id="275">
+				<a href="?" class="kudobject">
+					<div class="opening clearfix">
+						<span class="circle">&nbsp;</span>
+					</div>
+				</a>
+		
+				<a href="?" class="counter">
+					<span class="num">0</span>
+					<span class="txt">Kudos</span>
+				</a>
+			</aside>
+		</article><!-- #post-## -->
+
+
+	
+					
+		<article id="269" class="post">
+
+			<h2 class="entry-title">	<a href="http://www.yodi.sg/private-in-python-with-double-underscore-instead-of-one-underscore/" class="no-link" title="Permalink to Private in Python with double underscore instead of one underscore" rel="bookmark">Private in Python with double underscore instead of one underscore</a>
+
+</h2>
+
+
+
+				<div class="entry-content">
+				<p><strong>Updated that I was wrong about private variable in Python and get corrected by my friends : <a href="http://eugene-yeo.me/">http://eugene-yeo.me/</a></strong></p>
+<p>I believe there are a few people thinking single underscore &#8220;_&#8221; is for create private variable in Python. Well, this is not right anyway. To make it easy for explaining, let see this socket modules in Python<br />
+<a href="http://svn.python.org/projects/python/trunk/Lib/socket.py">http://svn.python.org/projects/python/trunk/Lib/socket.py</a> at this line:</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br />2<br />3<br />4<br /></div></td><td><div class="text codecolorer">import _socket<br />
+from _socket import *<br />
+from functools import partial<br />
+from types import MethodType</div></td></tr></tbody></table></div>
+<p><a href="http://www.yodi.sg/private-in-python-with-double-underscore-instead-of-one-underscore/#more-269" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+							</div><!-- .entry-content -->
+	
+
+			
+			
+			<aside class="kudo kudoable" id="269">
+				<a href="?" class="kudobject">
+					<div class="opening clearfix">
+						<span class="circle">&nbsp;</span>
+					</div>
+				</a>
+		
+				<a href="?" class="counter">
+					<span class="num">0</span>
+					<span class="txt">Kudos</span>
+				</a>
+			</aside>
+		</article><!-- #post-## -->
+
+
+	
+					
+		<article id="263" class="post">
+
+			<h2 class="entry-title">	<a href="http://www.yodi.sg/django-admin-execute-action-without-select-all-objects/" class="no-link" title="Permalink to Django admin execute action without selecting all objects" rel="bookmark">Django admin execute action without selecting all objects</a>
+
+</h2>
+
+
+
+				<div class="entry-content">
+				<p>There will be a task when you need to create a new action like &#8220;export to XML / CSV&#8221; and execute this action without selecting any objects / records. Technically, that&#8217;s mean how we doing response_action inside changelist_view() in Django admin without selecting any partial / all objects. This also will works if you using filter, search, etc. </p>
+<p>As you know, if you&#8217;re create an &#8220;action&#8221; in django admin, that action will be executed only if you have selected records / objects. First thing we need to know is why we can&#8217;t running action without selected the records in django admin?</p>
+<p>What the reason behind this? Here in <a href="https://github.com/django/django/blob/master/django/contrib/admin/options.py">https://github.com/django/django/blob/master/django/contrib/admin/options.py</a>.</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br />8<br />9<br />10<br />11<br />12<br />13<br />14<br />15<br />16<br /></div></td><td><div class="text codecolorer">selected = request.POST.getlist(helpers.ACTION_CHECKBOX_NAME)<br />
+<br />
+# Actions with no confirmation<br />
+if (actions and request.method == 'POST' and<br />
+&nbsp; &nbsp; &nbsp; &nbsp; 'index' in request.POST and '_save' not in request.POST):<br />
+&nbsp; &nbsp; if selected:<br />
+&nbsp; &nbsp; &nbsp; &nbsp; response = self.response_action(request, queryset=cl.get_query_set(request))<br />
+&nbsp; &nbsp; &nbsp; &nbsp; if response:<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return response<br />
+&nbsp; &nbsp; &nbsp; &nbsp; else:<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; action_failed = True<br />
+&nbsp; &nbsp; else:<br />
+&nbsp; &nbsp; &nbsp; &nbsp; msg = _(&quot;Items must be selected in order to perform &quot;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &quot;actions on them. No items have been changed.&quot;)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; self.message_user(request, msg)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; action_failed = True</div></td></tr></tbody></table></div>
+<p><a href="http://www.yodi.sg/django-admin-execute-action-without-select-all-objects/#more-263" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+							</div><!-- .entry-content -->
+	
+
+			
+			
+			<aside class="kudo kudoable" id="263">
+				<a href="?" class="kudobject">
+					<div class="opening clearfix">
+						<span class="circle">&nbsp;</span>
+					</div>
+				</a>
+		
+				<a href="?" class="counter">
+					<span class="num">0</span>
+					<span class="txt">Kudos</span>
+				</a>
+			</aside>
+		</article><!-- #post-## -->
+
+
+	
+					
+		<article id="261" class="post">
+
+			<h2 class="entry-title">	<a href="http://www.yodi.sg/python-map-with-two-or-more-arguments/" class="no-link" title="Permalink to Python map with two or more arguments" rel="bookmark">Python map with two or more arguments</a>
+
+</h2>
+
+
+
+				<div class="entry-content">
+				<p>Built-in Python function map() is best way to iterate and generate a new list from given list. Usually we using one arguments when passing objects into function inside map(), eg:</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br /></div></td><td><div class="text codecolorer">map(show_records, list_records)</div></td></tr></tbody></table></div>
+<p>At this example, x from list_records will passed into show_records(x). But, how to passing multiple arguments into map() ?<br />
+Basically, it&#8217;s easy with lambda():</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br /></div></td><td><div class="text codecolorer">map(lambda x: show_records(x, some_new_params), list_records)</div></td></tr></tbody></table></div>
+<p>And you can receive some_new_params in show_records(x, some_new_params) <img src='http://www.yodi.sg/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+							</div><!-- .entry-content -->
+	
+
+			
+			
+			<aside class="kudo kudoable" id="261">
+				<a href="?" class="kudobject">
+					<div class="opening clearfix">
+						<span class="circle">&nbsp;</span>
+					</div>
+				</a>
+		
+				<a href="?" class="counter">
+					<span class="num">0</span>
+					<span class="txt">Kudos</span>
+				</a>
+			</aside>
+		</article><!-- #post-## -->
+
+
+	
+					
+		<article id="253" class="post">
+
+			<h2 class="entry-title">	<a href="http://www.yodi.sg/django-send-email-on-localhost-and-using-template-for-content/" class="no-link" title="Permalink to Django send email on localhost and using Template for content" rel="bookmark">Django send email on localhost and using Template for content</a>
+
+</h2>
+
+
+
+				<div class="entry-content">
+				<p>The most common things while developing django application is sending email. Django have built-in function for sending email called &#8220;send_email&#8221; under django.core.mail. When we using long text of emails content and testing in our local, then we need to set it working on localhost and templating.</p>
+<p>1. Set up django send email on local<br />
+We can print email on console by edit this settings.py part:<br />
+ <a href="http://www.yodi.sg/django-send-email-on-localhost-and-using-template-for-content/#more-253" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+							</div><!-- .entry-content -->
+	
+
+			
+			
+			<aside class="kudo kudoable" id="253">
+				<a href="?" class="kudobject">
+					<div class="opening clearfix">
+						<span class="circle">&nbsp;</span>
+					</div>
+				</a>
+		
+				<a href="?" class="counter">
+					<span class="num">0</span>
+					<span class="txt">Kudos</span>
+				</a>
+			</aside>
+		</article><!-- #post-## -->
+
+
+	
+					
+		<article id="249" class="post">
+
+			<h2 class="entry-title">	<a href="http://www.yodi.sg/open-mysql-for-remote-connection-in-fedora-17/" class="no-link" title="Permalink to Open MySQL for remote connection in Fedora 17" rel="bookmark">Open MySQL for remote connection in Fedora 17</a>
+
+</h2>
+
+
+
+				<div class="entry-content">
+				<p>Sometimes we need to open MySQL for remote connection. To do this, we can create file &#8220;/etc/my.cnf&#8221; or modified it if exists.<br />
+The key here is:</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br />2<br />3<br /></div></td><td><div class="text codecolorer">[mysqld]<br />
+skip-external-locking<br />
+bind-address = 0.0.0.0</div></td></tr></tbody></table></div>
+<p>And you need to access your MySQL console and grant remote user by:</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br /></div></td><td><div class="text codecolorer">GRANT ALL PRIVILEGES ON *.* TO root@'%' IDENTIFIED BY 'YOUR_PASSWORD' WITH GRANT OPTION;</div></td></tr></tbody></table></div>
+<p>And last step is restart the MySQL services by &#8220;sudo service mysqld restart&#8221;</p>
+							</div><!-- .entry-content -->
+	
+
+			
+			
+			<aside class="kudo kudoable" id="249">
+				<a href="?" class="kudobject">
+					<div class="opening clearfix">
+						<span class="circle">&nbsp;</span>
+					</div>
+				</a>
+		
+				<a href="?" class="counter">
+					<span class="num">0</span>
+					<span class="txt">Kudos</span>
+				</a>
+			</aside>
+		</article><!-- #post-## -->
+
+
+	
+					
+		<article id="247" class="post">
+
+			<h2 class="entry-title">	<a href="http://www.yodi.sg/how-to-make-tornado-server-auto-restart-reload-everytime-files-changes/" class="no-link" title="Permalink to How to make tornado server auto restart / reload everytime files changes" rel="bookmark">How to make tornado server auto restart / reload everytime files changes</a>
+
+</h2>
+
+
+
+				<div class="entry-content">
+				<p>When running Tornado web server, we must doing restart for every changes that has been maded. This tedious works for sure. Are you newbie? Yes, I just download Tornado just today and I&#8217;m a new comers for this web-framework. If you follow Tornado documentation, it only showing how to running webserver in non-autoreload way. Wait, did you mean Tornado actually have module or function to make it autoreload everytime changes has been made? Yes!</p>
+<p>Here is example how to using tornado.autoreload to reload server everytime changes has been made. It&#8217;s also &#8220;update&#8221; if files in templates (HTML) being changed as well.<br />
+ <a href="http://www.yodi.sg/how-to-make-tornado-server-auto-restart-reload-everytime-files-changes/#more-247" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+							</div><!-- .entry-content -->
+	
+
+			
+			
+			<aside class="kudo kudoable" id="247">
+				<a href="?" class="kudobject">
+					<div class="opening clearfix">
+						<span class="circle">&nbsp;</span>
+					</div>
+				</a>
+		
+				<a href="?" class="counter">
+					<span class="num">0</span>
+					<span class="txt">Kudos</span>
+				</a>
+			</aside>
+		</article><!-- #post-## -->
+
+
+	
+					
+		<article id="244" class="post">
+
+			<h2 class="entry-title">	<a href="http://www.yodi.sg/simple-create-alphabet-and-reverse-them-in-python-using-number/" class="no-link" title="Permalink to Simple create alphabet and reverse them in Python using number" rel="bookmark">Simple create alphabet and reverse them in Python using number</a>
+
+</h2>
+
+
+
+				<div class="entry-content">
+				<p>It&#8217;s suddenly pop-out on my head which what the one-liner solution for creating alphabet (A-Z) in Python and reversed them. Then, the first thing is using built-in python function like ord() and chr(). Then, I can use list comprehension to make it compact.</p>
+<p>Example:</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br /></div></td><td><div class="text codecolorer">[chr(x) for x in range(ord(&quot;a&quot;), ord(&quot;z&quot;) + 1)]</div></td></tr></tbody></table></div>
+<p><a href="http://www.yodi.sg/simple-create-alphabet-and-reverse-them-in-python-using-number/#more-244" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+							</div><!-- .entry-content -->
+	
+
+			
+			
+			<aside class="kudo kudoable" id="244">
+				<a href="?" class="kudobject">
+					<div class="opening clearfix">
+						<span class="circle">&nbsp;</span>
+					</div>
+				</a>
+		
+				<a href="?" class="counter">
+					<span class="num">0</span>
+					<span class="txt">Kudos</span>
+				</a>
+			</aside>
+		</article><!-- #post-## -->
+
+
+	
+					
+		<article id="237" class="post">
+
+			<h2 class="entry-title">	<a href="http://www.yodi.sg/fix-subfolder-directory-listing-forbidden-httpd-apache2-in-fedora-17/" class="no-link" title="Permalink to Fix subfolder directory listing forbidden HTTPD / Apache2 in Fedora 17" rel="bookmark">Fix subfolder directory listing forbidden HTTPD / Apache2 in Fedora 17</a>
+
+</h2>
+
+
+
+				<div class="entry-content">
+				<p>This is the most annoying problem when you setup httpd in Fedora 17. Fedora apache directory listing for subfolder became forbidden and only allowing for folder that have &#8220;index.html&#8221; or &#8220;index.<something>&#8220;. Solution to fix this problems is very easy.</p>
+<p>Open &#8220;/etc/httpd/conf/httpd.conf&#8221; and put this into bottom line:</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br />2<br />3<br /></div></td><td><div class="text codecolorer">&lt;DirectoryMatch &nbsp;/home/yodi/htdocs/(.)*/&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; Options +Indexes<br />
+&lt;/DirectoryMatch&gt;</div></td></tr></tbody></table></div>
+<p>And make sure &#8220;/etc/httpd/conf.d/welcome.conf&#8221;:</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br />2<br />3<br />4<br /></div></td><td><div class="text codecolorer">&lt;LocationMatch &quot;^/+$&quot;&gt;<br />
+&nbsp; &nbsp; Options +Indexes &nbsp; &nbsp;<br />
+&nbsp; &nbsp; ErrorDocument 403 /error/noindex.html<br />
+&lt;/LocationMatch&gt;</div></td></tr></tbody></table></div>
+<p>Now you got subfolder in Apache have directory listing</p>
+							</div><!-- .entry-content -->
+	
+
+			
+			
+			<aside class="kudo kudoable" id="237">
+				<a href="?" class="kudobject">
+					<div class="opening clearfix">
+						<span class="circle">&nbsp;</span>
+					</div>
+				</a>
+		
+				<a href="?" class="counter">
+					<span class="num">0</span>
+					<span class="txt">Kudos</span>
+				</a>
+			</aside>
+		</article><!-- #post-## -->
+
+
+	
+					
+		<article id="235" class="post">
+
+			<h2 class="entry-title">	<a href="http://www.yodi.sg/mysql-export-procedure-only-from-database/" class="no-link" title="Permalink to MYSQL export PROCEDURE only from database" rel="bookmark">MYSQL export PROCEDURE only from database</a>
+
+</h2>
+
+
+
+				<div class="entry-content">
+				<p>Here is how to export PROCEDURE from MySQL database :</p>
+<div class="codecolorer-container text railscasts" style="overflow:auto;white-space:nowrap;width:630px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td class="line-numbers"><div>1<br /></div></td><td><div class="text codecolorer">mysqldump -u USERNAME -pPASSWORD --routines --no-create-info --no-data --no-create-db --skip-opt YOUR_DATABASE &gt; test.txt</div></td></tr></tbody></table></div>
+							</div><!-- .entry-content -->
+	
+
+			
+			
+			<aside class="kudo kudoable" id="235">
+				<a href="?" class="kudobject">
+					<div class="opening clearfix">
+						<span class="circle">&nbsp;</span>
+					</div>
+				</a>
+		
+				<a href="?" class="counter">
+					<span class="num">0</span>
+					<span class="txt">Kudos</span>
+				</a>
+			</aside>
+		</article><!-- #post-## -->
+
+
+
+
+	<nav class="pagination">
+
+		<span class="next">
+			<a href="http://www.yodi.sg/page/2/" >Continue&nbsp;&nbsp;&nbsp;→</a>		</span>
+
+	  <span class="prev">
+					</span>
+	
+	</nav>
+</section><!-- #main -->
+
+
+<script data-cfasync="false" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" charset="utf-8">
+	function getKudos() {
+	    var e = new Array;
+	    return $("aside.kudo").each(function(t) {
+	        article = $(this).closest("article").attr("id"),
+	        e.push(article)
+	    }),
+	    $.post("http://www.yodi.sg/wp-admin/admin-ajax.php", {
+	        kudosList: e,
+					action:'my_special_action'
+	    },
+	    function(e) {
+	        $.each(e,
+	        function(e, t) {
+	            var n = $("#" + t.external_id).find("span.num"),
+	            r = n.text().replace(/,/g, ""),
+	            i = t.kudos;
+	            isNaN(r) && (r = 0),
+	            isNaN(i) && (i = 9e6),
+	            i - r >= 0 && (i = i.toString(), i = i.replace(/\B(?=(\d{3})+(?!\d))/g, ","), n.html(i))
+	        })
+	    }),
+	    !0
+	}
+	function setViewport() {
+	    $(window).width() < 900 && $("html,body").animate({
+	        scrollLeft: 180
+	    },
+	    800)
+	}
+	function startCode() {
+	    // $("code").addClass("prettyprint"),
+	    // $.getScript("/wp-content/themes/svbtle/vendor/prettify.js").done(function(e, t) {
+	    //     var n = "/wp-content/themes/svbtle/css/prettify.css";
+	    //     $.get(n,
+	    //     function(e) {
+	    //         $('<style type="text/css"></style>').html(e).appendTo("head")
+	    //     }),
+	    //     prettyPrint()
+	    // })
+	} (function(e, t) {
+	    var n;
+	    e.rails = n = {
+	        linkClickSelector: "a[data-confirm], a[data-method], a[data-remote], a[data-disable-with]",
+	        inputChangeSelector: "select[data-remote], input[data-remote], textarea[data-remote]",
+	        formSubmitSelector: "form",
+	        formInputClickSelector: "form input[type=submit], form input[type=image], form button[type=submit], form button:not(button[type])",
+	        disableSelector: "input[data-disable-with], button[data-disable-with], textarea[data-disable-with]",
+	        enableSelector: "input[data-disable-with]:disabled, button[data-disable-with]:disabled, textarea[data-disable-with]:disabled",
+	        requiredInputSelector: "input[name][required]:not([disabled]),textarea[name][required]:not([disabled])",
+	        fileInputSelector: "input:file",
+	        linkDisableSelector: "a[data-disable-with]",
+	        CSRFProtection: function(t) {
+	            var n = e('meta[name="csrf-token"]').attr("content");
+	            n && t.setRequestHeader("X-CSRF-Token", n)
+	        },
+	        fire: function(t, n, r) {
+	            var i = e.Event(n);
+	            return t.trigger(i, r),
+	            i.result !== !1
+	        },
+	        confirm: function(e) {
+	            return confirm(e)
+	        },
+	        ajax: function(t) {
+	            return e.ajax(t)
+	        },
+	        href: function(e) {
+	            return e.attr("href")
+	        },
+	        handleRemote: function(r) {
+	            var i,
+	            s,
+	            o,
+	            u,
+	            a,
+	            f;
+	            if (n.fire(r, "ajax:before")) {
+	                u = r.data("cross-domain") || null,
+	                a = r.data("type") || e.ajaxSettings && e.ajaxSettings.dataType;
+	                if (r.is("form")) {
+	                    i = r.attr("method"),
+	                    s = r.attr("action"),
+	                    o = r.serializeArray();
+	                    var l = r.data("ujs:submit-button");
+	                    l && (o.push(l), r.data("ujs:submit-button", null))
+	                } else r.is(n.inputChangeSelector) ? (i = r.data("method"), s = r.data("url"), o = r.serialize(), r.data("params") && (o = o + "&" + r.data("params"))) : (i = r.data("method"), s = n.href(r), o = r.data("params") || null);
+	                return f = {
+	                    type: i || "GET",
+	                    data: o,
+	                    dataType: a,
+	                    crossDomain: u,
+	                    beforeSend: function(e, i) {
+	                        return i.dataType === t && e.setRequestHeader("accept", "*/*;q=0.5, " + i.accepts.script),
+	                        n.fire(r, "ajax:beforeSend", [e, i])
+	                    },
+	                    success: function(e, t, n) {
+	                        r.trigger("ajax:success", [e, t, n])
+	                    },
+	                    complete: function(e, t) {
+	                        r.trigger("ajax:complete", [e, t])
+	                    },
+	                    error: function(e, t, n) {
+	                        r.trigger("ajax:error", [e, t, n])
+	                    }
+	                },
+	                s && (f.url = s),
+	                n.ajax(f)
+	            }
+	            return ! 1
+	        },
+	        handleMethod: function(r) {
+	            var i = n.href(r),
+	            s = r.data("method"),
+	            o = r.attr("target"),
+	            u = e("meta[name=csrf-token]").attr("content"),
+	            a = e("meta[name=csrf-param]").attr("content"),
+	            f = e('<form method="post" action="' + i + '"></form>'),
+	            l = '<input name="_method" value="' + s + '" type="hidden" />';
+	            a !== t && u !== t && (l += '<input name="' + a + '" value="' + u + '" type="hidden" />'),
+	            o && f.attr("target", o),
+	            f.hide().append(l).appendTo("body"),
+	            f.submit()
+	        },
+	        disableFormElements: function(t) {
+	            t.find(n.disableSelector).each(function() {
+	                var t = e(this),
+	                n = t.is("button") ? "html": "val";
+	                t.data("ujs:enable-with", t[n]()),
+	                t[n](t.data("disable-with")),
+	                t.prop("disabled", !0)
+	            })
+	        },
+	        enableFormElements: function(t) {
+	            t.find(n.enableSelector).each(function() {
+	                var t = e(this),
+	                n = t.is("button") ? "html": "val";
+	                t.data("ujs:enable-with") && t[n](t.data("ujs:enable-with")),
+	                t.prop("disabled", !1)
+	            })
+	        },
+	        allowAction: function(e) {
+	            var t = e.data("confirm"),
+	            r = !1,
+	            i;
+	            return t ? (n.fire(e, "confirm") && (r = n.confirm(t), i = n.fire(e, "confirm:complete", [r])), r && i) : !0
+	        },
+	        blankInputs: function(t, n, r) {
+	            var i = e(),
+	            s,
+	            o = n || "input,textarea";
+	            return t.find(o).each(function() {
+	                s = e(this);
+	                if (r ? s.val() : !s.val()) i = i.add(s)
+	            }),
+	            i.length ? i: !1
+	        },
+	        nonBlankInputs: function(e, t) {
+	            return n.blankInputs(e, t, !0)
+	        },
+	        stopEverything: function(t) {
+	            return e(t.target).trigger("ujs:everythingStopped"),
+	            t.stopImmediatePropagation(),
+	            !1
+	        },
+	        callFormSubmitBindings: function(n, r) {
+	            var i = n.data("events"),
+	            s = !0;
+	            return i !== t && i.submit !== t && e.each(i.submit,
+	            function(e, t) {
+	                if (typeof t.handler == "function") return s = t.handler(r)
+	            }),
+	            s
+	        },
+	        disableElement: function(e) {
+	            e.data("ujs:enable-with", e.html()),
+	            e.html(e.data("disable-with")),
+	            e.bind("click.railsDisable",
+	            function(e) {
+	                return n.stopEverything(e)
+	            })
+	        },
+	        enableElement: function(e) {
+	            e.data("ujs:enable-with") !== t && (e.html(e.data("ujs:enable-with")), e.data("ujs:enable-with", !1)),
+	            e.unbind("click.railsDisable")
+	        }
+	    },
+	    e.ajaxPrefilter(function(e, t, r) {
+	        e.crossDomain //|| n.CSRFProtection(r)
+	    }),
+	    e(document).delegate(n.linkDisableSelector, "ajax:complete",
+	    function() {
+	        n.enableElement(e(this))
+	    }),
+	    e(document).delegate(n.linkClickSelector, "click.rails",
+	    function(r) {
+	        var i = e(this),
+	        s = i.data("method"),
+	        o = i.data("params");
+	        if (!n.allowAction(i)) return n.stopEverything(r);
+	        i.is(n.linkDisableSelector) && n.disableElement(i);
+	        if (i.data("remote") !== t) return (r.metaKey || r.ctrlKey) && (!s || s === "GET") && !o ? !0: (n.handleRemote(i) === !1 && n.enableElement(i), !1);
+	        if (i.data("method")) return n.handleMethod(i),
+	        !1
+	    }),
+	    e(document).delegate(n.inputChangeSelector, "change.rails",
+	    function(t) {
+	        var r = e(this);
+	        return n.allowAction(r) ? (n.handleRemote(r), !1) : n.stopEverything(t)
+	    }),
+	    e(document).delegate(n.formSubmitSelector, "submit.rails",
+	    function(r) {
+	        var i = e(this),
+	        s = i.data("remote") !== t,
+	        o = n.blankInputs(i, n.requiredInputSelector),
+	        u = n.nonBlankInputs(i, n.fileInputSelector);
+	        if (!n.allowAction(i)) return n.stopEverything(r);
+	        if (o && i.attr("novalidate") == t && n.fire(i, "ajax:aborted:required", [o])) return n.stopEverything(r);
+	        if (s) return u ? n.fire(i, "ajax:aborted:file", [u]) : !e.support.submitBubbles && e().jquery < "1.7" && n.callFormSubmitBindings(i, r) === !1 ? n.stopEverything(r) : (n.handleRemote(i), !1);
+	        setTimeout(function() {
+	            n.disableFormElements(i)
+	        },
+	        13)
+	    }),
+	    e(document).delegate(n.formInputClickSelector, "click.rails",
+	    function(t) {
+	        var r = e(this);
+	        if (!n.allowAction(r)) return n.stopEverything(t);
+	        var i = r.attr("name"),
+	        s = i ? {
+	            name: i,
+	            value: r.val()
+	        }: null;
+	        r.closest("form").data("ujs:submit-button", s)
+	    }),
+	    e(document).delegate(n.formSubmitSelector, "ajax:beforeSend.rails",
+	    function(t) {
+	        this == t.target && n.disableFormElements(e(this))
+	    }),
+	    e(document).delegate(n.formSubmitSelector, "ajax:complete.rails",
+	    function(t) {
+	        this == t.target && n.enableFormElements(e(this))
+	    })
+	})(jQuery),
+	function(e) {
+	    function t() {
+	        if (o.jStorage) try {
+	            s = l("" + o.jStorage)
+	        } catch(e) {
+	            o.jStorage = "{}"
+	        } else o.jStorage = "{}";
+	        a = o.jStorage ? ("" + o.jStorage).length: 0
+	    }
+	    function n() {
+	        try {
+	            o.jStorage = f(s),
+	            u && (u.setAttribute("jStorage", o.jStorage), u.save("jStorage")),
+	            a = o.jStorage ? ("" + o.jStorage).length: 0
+	        } catch(e) {}
+	    }
+	    function r(e) {
+	        if (!e || "string" != typeof e && "number" != typeof e) throw new TypeError("Key name must be string or numeric");
+	        if ("__jstorage_meta" == e) throw new TypeError("Reserved key name");
+	        return ! 0
+	    }
+	    function i() {
+	        var e,
+	        t,
+	        r,
+	        o = Infinity,
+	        u = !1;
+	        clearTimeout(h);
+	        if (s.__jstorage_meta && "object" == typeof s.__jstorage_meta.TTL) {
+	            e = +(new Date),
+	            r = s.__jstorage_meta.TTL;
+	            for (t in r) r.hasOwnProperty(t) && (r[t] <= e ? (delete r[t], delete s[t], u = !0) : r[t] < o && (o = r[t]));
+	            Infinity != o && (h = setTimeout(i, o - e)),
+	            u && n()
+	        }
+	    }
+	    if (!e || !e.toJSON && !Object.toJSON && !window.JSON) throw Error("jQuery, MooTools or Prototype needs to be loaded before jStorage!");
+	    var s = {},
+	    o = {
+	        jStorage: "{}"
+	    },
+	    u = null,
+	    a = 0,
+	    f = e.toJSON || Object.toJSON || window.JSON && (JSON.encode || JSON.stringify),
+	    l = e.evalJSON || window.JSON && (JSON.decode || JSON.parse) ||
+	    function(e) {
+	        return ("" + e).evalJSON()
+	    },
+	    c = !1,
+	    h,
+	    p = {
+	        isXML: function(e) {
+	            return (e = (e ? e.ownerDocument || e: 0).documentElement) ? "HTML" !== e.nodeName: !1
+	        },
+	        encode: function(e) {
+	            if (!this.isXML(e)) return ! 1;
+	            try {
+	                return (new XMLSerializer).serializeToString(e)
+	            } catch(t) {
+	                try {
+	                    return e.xml
+	                } catch(n) {}
+	            }
+	            return ! 1
+	        },
+	        decode: function(e) {
+	            var t = "DOMParser" in window && (new DOMParser).parseFromString || window.ActiveXObject &&
+	            function(e) {
+	                var t = new ActiveXObject("Microsoft.XMLDOM");
+	                return t.async = "false",
+	                t.loadXML(e),
+	                t
+	            };
+	            return t ? (e = t.call("DOMParser" in window && new DOMParser || window, e, "text/xml"), this.isXML(e) ? e: !1) : !1
+	        }
+	    };
+	    e.jStorage = {
+	        version: "0.1.7.0",
+	        set: function(e, t, i) {
+	            return r(e),
+	            i = i || {},
+	            p.isXML(t) ? t = {
+	                _is_xml: !0,
+	                xml: p.encode(t)
+	            }: "function" == typeof t ? t = null: t && "object" == typeof t && (t = l(f(t))),
+	            s[e] = t,
+	            isNaN(i.TTL) ? n() : this.setTTL(e, i.TTL),
+	            t
+	        },
+	        get: function(e, t) {
+	            return r(e),
+	            e in s ? s[e] && "object" == typeof s[e] && s[e]._is_xml && s[e]._is_xml ? p.decode(s[e].xml) : s[e] : "undefined" == typeof t ? null: t
+	        },
+	        deleteKey: function(e) {
+	            return r(e),
+	            e in s ? (delete s[e], s.__jstorage_meta && "object" == typeof s.__jstorage_meta.TTL && e in s.__jstorage_meta.TTL && delete s.__jstorage_meta.TTL[e], n(), !0) : !1
+	        },
+	        setTTL: function(e, t) {
+	            var o = +(new Date);
+	            return r(e),
+	            t = Number(t) || 0,
+	            e in s ? (s.__jstorage_meta || (s.__jstorage_meta = {}), s.__jstorage_meta.TTL || (s.__jstorage_meta.TTL = {}), 0 < t ? s.__jstorage_meta.TTL[e] = o + t: delete s.__jstorage_meta.TTL[e], n(), i(), !0) : !1
+	        },
+	        flush: function() {
+	            return s = {},
+	            n(),
+	            !0
+	        },
+	        storageObj: function() {
+	            function e() {}
+	            return e.prototype = s,
+	            new e
+	        },
+	        index: function() {
+	            var e = [],
+	            t;
+	            for (t in s) s.hasOwnProperty(t) && "__jstorage_meta" != t && e.push(t);
+	            return e
+	        },
+	        storageSize: function() {
+	            return a
+	        },
+	        currentBackend: function() {
+	            return c
+	        },
+	        storageAvailable: function() {
+	            return !! c
+	        },
+	        reInit: function() {
+	            var e;
+	            if (u && u.addBehavior) {
+	                e = document.createElement("link"),
+	                u.parentNode.replaceChild(e, u),
+	                u = e,
+	                u.style.behavior = "url(#default#userData)",
+	                document.getElementsByTagName("head")[0].appendChild(u),
+	                u.load("jStorage"),
+	                e = "{}";
+	                try {
+	                    e = u.getAttribute("jStorage")
+	                } catch(n) {}
+	                o.jStorage = e,
+	                c = "userDataBehavior"
+	            }
+	            t()
+	        }
+	    },
+	    function() {
+	        var e = !1;
+	        if ("localStorage" in window) try {
+	            window.localStorage.setItem("_tmptest", "tmpval"),
+	            e = !0,
+	            window.localStorage.removeItem("_tmptest")
+	        } catch(n) {}
+	        if (e) try {
+	            window.localStorage && (o = window.localStorage, c = "localStorage")
+	        } catch(r) {} else if ("globalStorage" in window) try {
+	            window.globalStorage && (o = window.globalStorage[window.location.hostname], c = "globalStorage")
+	        } catch(s) {} else {
+	            if (u = document.createElement("link"), !u.addBehavior) {
+	                u = null;
+	                return
+	            }
+	            u.style.behavior = "url(#default#userData)",
+	            document.getElementsByTagName("head")[0].appendChild(u),
+	            u.load("jStorage"),
+	            e = "{}";
+	            try {
+	                e = u.getAttribute("jStorage")
+	            } catch(a) {}
+	            o.jStorage = e,
+	            c = "userDataBehavior"
+	        }
+	        t(),
+	        i()
+	    } ()
+	} (window.$ || window.jQuery),
+	$(function() {
+	    function n(t) {
+	        t.addClass("active"),
+	        t.children(".counter").children("span.txt").html("Don&rsquo;t move"),
+	        t.children(".counter").children("span.num").hide(),
+	        e = setTimeout(function() {
+	            clearTimeout(e),
+	            s(t)
+	        },
+	        1e3)
+	    }
+	    function r(t) {
+	        clearTimeout(e),
+	        t.children(".counter").children("span.txt").html("Kudos"),
+	        t.children(".counter").children("span.num").show(),
+	        t.removeClass("active")
+	    }
+	    function i(e) {
+	        var t = e.closest("article").attr("id");
+					$.post("http://www.yodi.sg/wp-admin/admin-ajax.php", {
+	            article: t, action:'remove_kudos'
+	        },
+	        function() {
+	            $.jStorage.set(t, !1)
+	        });
+	        var n = parseInt(e.find("span.num").text().replace(/,/g, "")) - 1;
+	        e.find("span.num").text(n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")),
+	        e.children(".counter").children("span.txt").html("Kudos"),
+	        e.children(".counter").children("span.num").show(),
+	        e.removeClass("complete deletable"),
+	        e.addClass("kudoable")
+	    }
+	    function s(e) {
+	        var t = e.closest("article").attr("id");
+	        $.post("http://www.yodi.sg/wp-admin/admin-ajax.php", {
+	            article: t,
+							action:'my_special_action',
+	        },
+	        function() {
+	            $.jStorage.set(t, !0)
+	        });
+	        var n = parseInt(e.find("span.num").text().replace(/,/g, "")) + 1;
+	        e.find("span.num").text(n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")),
+	        e.children(".counter").children("span.txt").html("Kudos"),
+	        e.children(".counter").children("span.num").show(),
+	        e.addClass("complete"),
+	        e.removeClass("kudoable active")
+	    }
+	    var e,
+	    t;
+	    getKudos(),
+	    setViewport(),
+	    $("code, pre").length > 0 && startCode(),
+	    $("a.kudobject").live({
+	        click: function(e) {
+	            return e.preventDefault(),
+	            !1
+	        },
+	        mouseenter: function() {
+	            kudo = $(this).parent(),
+	            kudo.is(".kudoable") && n(kudo)
+	        },
+	        mouseleave: function() {
+	            clearTimeout(e),
+	            kudo = $(this).parent(),
+	            r(kudo),
+	            kudo.is(".complete") && kudo.addClass("deletable")
+	        }
+	    }),
+	    $("a.kudobject").live("touchstart",
+	    function(e) {
+	        kudo = $(this).parent(),
+	        kudo.is(".kudoable") && n(kudo),
+	        e.preventDefault()
+	    }),
+	    $("a.kudobject").live("touchend",
+	    function(t) {
+	        clearTimeout(e),
+	        kudo = $(this).parent(),
+	        r(kudo),
+	        kudo.is(".complete") && kudo.addClass("deletable"),
+	        t.preventDefault()
+	    }),
+	    $("aside.deletable a.kudobject").live("click",
+	    function(e) {
+	        return kudo = $(this).parent(),
+	        i(kudo),
+	        e.preventDefault(),
+	        !1
+	    }),
+	    $("aside.deletable a.kudobject").live("touchend",
+	    function(e) {
+	        return kudo = $(this).parent(),
+	        i(kudo),
+	        e.preventDefault(),
+	        !1
+	    }),
+	    $("aside.kudo").each(function(e) {
+	        var t = $(this).closest("article").attr("id"),
+	        n = $.jStorage.get(t);
+	        n && $(this).removeClass("kudoable").addClass("complete deletable")
+	    }),
+	    $("#svbtle_dropdown").mouseenter(function() {
+	        clearTimeout(t),
+	        $("#dropdown").show()
+	    }).mouseleave(function() {
+	        t = setTimeout("$('#dropdown').hide();", 800)
+	    }),
+	    $("#svbtle_dropdown").mouseenter(function() {
+	        clearTimeout(t),
+	        $("#dropdown").show()
+	    }).mouseleave(function() {
+	        t = setTimeout("$('#dropdown').hide();", 800)
+	    })
+	}),	$("input.pane_input, textarea.pane_input").bind("focus", function() {
+			    $("li.text_field").removeClass("active"), $(this).parent("li.text_field").addClass("active")
+			}), $("input.pane_input, textarea.pane_input").bind("blur", function() {
+			    $("li.text_field").removeClass("active"), $("li.text_field").first().addClass("active")
+			});
+</script>
+		</div><!-- #wrap -->
+
+
+			</body>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34961041-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</html>
